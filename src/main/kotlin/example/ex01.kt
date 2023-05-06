@@ -13,5 +13,5 @@ fun main(){
     //null이 들어갈 수 있는 변수를 만드려면 자료형 뒤에 ?를 붙이면 됨(ex. 타입?)
 
     //객체를 인스턴스화 할때 new를 사용하지 않아도 됨
-    var person = Person("최태현")
+//    var person = Person("최태현")
 }
